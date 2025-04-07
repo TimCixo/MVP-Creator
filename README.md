@@ -1,5 +1,7 @@
-Various tools to speed up work in Unity that I wrote for my own use.
-
-Available tools:
-- MvpCreator - creates MVP(Model-View-Presenter) module in the selected directory;
-- EmptyPrefab - creates empty prefab in the selected directory.
+# How to use
+1. Open the module creation window "Assets/RMB -> Create -> MVP Module";
+2. Enter the module name;
+3. Enter the module namespace;
+4. Enter the path. There is a button "..." for native selection;
+5. View the result;
+6. Click the "Create" button.
